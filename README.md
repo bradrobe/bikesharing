@@ -30,7 +30,7 @@ The purpose of the challenge is to provide data from the New York City bike shar
 ![image]
 •	Indicates trips by gender by weekday.
 
- ![image]
+ ![image](https://github.com/bradrobe/bikesharing/blob/main/Images/citibike_dashbaord.png)
 •	Image of CitiBike Dashboard.
 
 ## Summary:
