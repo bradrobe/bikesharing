@@ -10,27 +10,27 @@ The purpose of the challenge is to provide data from the New York City bike shar
 •	What are the number of bike trips for each type of user and gender for each day of the week?
 
 ## Results:
- 
+ ![image](https://github.com/bradrobe/bikesharing/blob/main/Images/checkout_times_for_users.png)
 •	The chart indicates most trip duration are 5 minutes to 45 minutes.
 
- 
+ ![image]
 •	The chart identifies the duration by each gender.
 
 
- 
+ ![image]
 •	Indicated number of bike trips by all users each day of the week.
 
- 
+ ![image]
 •	Indicates number of bike trips by gender.
 
- 
+ ![image]
 •	Indicates number of trips by gender per hour of the weekday.
 
  
-
+![image]
 •	Indicates trips by gender by weekday.
 
- 
+ ![image]
 •	Image of CitiBike Dashboard.
 
 ## Summary:
