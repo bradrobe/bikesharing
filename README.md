@@ -16,14 +16,14 @@ The purpose of the challenge is to provide data from the New York City bike shar
  ![image](https://github.com/bradrobe/bikesharing/blob/main/Images/trips_by_weekdays_per_hour.png)
 •	The chart identifies the duration by each gender.
 
+![image](https://github.com/bradrobe/bikesharing/blob/main/Images/trips_by_weekdays_per_hour.png)
 
- ![image](https://github.com/bradrobe/bikesharing/blob/main/Images/trips_by_gender_weekdays_per_hour.png))
 •	Indicated number of bike trips by all users each day of the week.
 
  ![image]
 •	Indicates number of bike trips by gender.
 
- ![image](https://github.com/bradrobe/bikesharing/blob/main/Images/trips_by_weekdays_per_hour.png)
+ ![image](https://github.com/bradrobe/bikesharing/blob/main/Images/trips_by_gender_weekdays_per_hour.png)
 •	Indicates number of trips by gender per hour of the weekday.
 
  
