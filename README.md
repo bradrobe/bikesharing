@@ -13,7 +13,7 @@ The purpose of the challenge is to provide data from the New York City bike shar
  ![image](https://github.com/bradrobe/bikesharing/blob/main/Images/checkout_times_for_users.png)
 •	The chart indicates most trip duration are 5 minutes to 45 minutes.
 
- 
+ ![image](https://github.com/bradrobe/bikesharing/blob/main/Images/checkout_times_by_gender.png)
 •	The chart identifies the duration by each gender.
 
 
