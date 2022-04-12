@@ -29,7 +29,7 @@ The purpose of the challenge is to provide data from the New York City bike shar
  ![image](https://github.com/bradrobe/bikesharing/blob/main/Images/citibike_dashbaord.png)
 •	Image of CitiBike Dashboard.
  
-![image]
+![image](https://github.com/bradrobe/bikesharing/blob/main/Images/citi_story.png)
 •	Image of CitiBike Story.
 
 
